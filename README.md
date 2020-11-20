@@ -12,6 +12,7 @@ CS532 - Database Systems Fall 20
 
 My original Dataset is too heavy so i uploaded into a public drive in Case is needed here is the link
 
+https://drive.google.com/drive/folders/1zq0ep_d2F2CzZ2LG3WWVhwDCorhzc03Y?usp=sharing
 
 
 ## Running the code
